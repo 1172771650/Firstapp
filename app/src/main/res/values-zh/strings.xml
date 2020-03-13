@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firstapp</string>
+    <string name="hello">致汤姆</string>
+    <string name="at">别来无恙</string>
+    <string name="name">杰瑞</string>
+    <string name="time">2020/3/13</string>
+</resources>

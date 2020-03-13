@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Firstapp</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Hello</string>
+    <string name="hello">To Tom:</string>
+    <string name="name">Your Jerry</string>
+    <string name="time">2020/3/13</string>
+    <string name="at">Hope that you are well</string>
+    <string name="action_settings" translatable="false">hello</string>
 </resources>
