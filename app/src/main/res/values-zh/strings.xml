@@ -5,4 +5,6 @@
     <string name="at">别来无恙</string>
     <string name="name">杰瑞</string>
     <string name="time">2020/3/13</string>
+    <string name="show">结果为：</string>
+    <string name="btn4">转换为华氏温度</string>
 </resources>

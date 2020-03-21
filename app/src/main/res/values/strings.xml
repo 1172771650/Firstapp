@@ -5,4 +5,10 @@
     <string name="time">2020/3/13</string>
     <string name="at">Hope that you are well</string>
     <string name="action_settings" translatable="false">hello</string>
+    <string name="btn_1" translatable="false">+1 point</string>
+    <string name="btn_2" translatable="false">+2 points</string>
+    <string name="btn_3" translatable="false">+3 points</string>
+    <string name="btn_0" translatable="false">Reset</string>
+    <string name="btn4">Convert  to Fahrenheit</string>
+    <string name="show">result：</string>
 </resources>
